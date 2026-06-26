@@ -52,8 +52,8 @@ Projects:
   - feedra.online 🌐
   - Auraa Lang 🧠 (auraa1.vercel.app)
   - Walksy App 🚶 (walksy1.vercel.app)
-Trainer : NxtWave CCBP Academy 🎓
-Hackathon: Adobe '25 — Top 1K 🏆
+Trainer : NxtWave CCBP Academy 
+Hackathon: Adobe '25 — Top 1K 
 Location: Visakhapatnam, India
 Status  : Building & Shipping 🔥
 ```
@@ -97,7 +97,7 @@ Status  : Building & Shipping 🔥
 
 ---
 
-### 🧠 Auraa — The Explainable Offline-First Language
+###  Auraa — The Explainable Offline-First Language
 
 <div align="center">
 <a href="https://auraa1.vercel.app/" target="_blank">
@@ -111,7 +111,7 @@ Status  : Building & Shipping 🔥
 
 <div align="center">
 
-| ⚙️ Core Feature | 📌 What It Means |
+| ⚙️ Core Feature |  What It Means |
 |:---|:---|
 | Explainable Execution | Understand exactly how your code runs |
 | Offline-First | Zero cloud dependency — runs fully local |
@@ -152,11 +152,11 @@ Status  : Building & Shipping 🔥
 
 ---
 
-## 🏆 Achievements
+##  Achievements
 
 <div align="center">
 
-| 🏅 Achievement | 📌 Details |
+|  Achievement | 📌 Details |
 |:---|:---|
 | 🥇 Adobe Hackathon '25 | **Top 1,000** globally |
 | 🧠 Language Builder | Built **Auraa** — Offline-First Language |
@@ -170,7 +170,7 @@ Status  : Building & Shipping 🔥
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 <div align="center">
 
